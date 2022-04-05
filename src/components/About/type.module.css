@@ -1,0 +1,15 @@
+.container {
+    height: 100vh;
+    position: relative;
+}
+
+.typeContainer {
+    position: absolute;
+    background: #02020294;
+    width: 100vw;
+    z-index: 20;
+    color: white;
+    padding: 50px 0;
+    bottom: 15%;
+    padding-left: 2rem;
+}
